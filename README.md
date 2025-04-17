@@ -3,6 +3,9 @@
 
 
 ## numpy
+- need python 3.10
+- need numpy 1.19 or less by the looks then
+
 C:\Users\rscott\AppData\Local\miniconda3\envs\risked\lib\site-packages\theano\scalar\basic.py:2412: FutureWarning: In the future `np.bool` will be defined as the corresponding NumPy scalar.
   self.ctor = getattr(np, o_type.dtype)
 ---------------------------------------------------------------------------
